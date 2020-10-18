@@ -1,0 +1,5 @@
+﻿  LB3.2.cpp
+D:\Project\LB3\LB3.2\LB3.2.cpp(21,27): warning C4390: ';': empty controlled statement found; is this the intent?
+D:\Project\LB3\LB3.2\LB3.2.cpp(23,27): warning C4390: ';': empty controlled statement found; is this the intent?
+D:\Project\LB3\LB3.2\LB3.2.cpp(25,47): warning C4390: ';': empty controlled statement found; is this the intent?
+  LB3.2.vcxproj -> D:\Project\LB3\LB3.2\Debug\LB3.2.exe

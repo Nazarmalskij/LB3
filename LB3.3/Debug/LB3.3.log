@@ -1,0 +1,5 @@
+﻿  LB3.3.cpp
+D:\Project\LB3\LB3.3\LB3.3.cpp(21,23): warning C4804: '<=': unsafe use of type 'bool' in operation
+D:\Project\LB3\LB3.3\LB3.3.cpp(24,19): warning C4804: '<=': unsafe use of type 'bool' in operation
+D:\Project\LB3\LB3.3\LB3.3.cpp(27,15): warning C4390: ';': empty controlled statement found; is this the intent?
+  LB3.3.vcxproj -> D:\Project\LB3\LB3.3\Debug\LB3.3.exe
